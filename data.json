@@ -51,6 +51,15 @@
       "stok": 1,
       "kategori": "kopi",
       "img": "https://via.placeholder.com/200/999?text=NEW"
+    },
+    {
+      "id": 8,
+      "nama": "Kopi ",
+      "harga": 5000,
+      "modal": 5000,
+      "stok": 100,
+      "kategori": "kopi",
+      "img": "https://via.placeholder.com/200/999?text=NEW"
     }
   ],
   "tokoData": {
