@@ -1,1 +1,63 @@
-[]
+{
+  "products": [
+    {
+      "id": 1,
+      "nama": "Merk A",
+      "harga": 20000,
+      "stok": 48,
+      "kategori": "rokok",
+      "img": "https://via.placeholder.com/200/555"
+    },
+    {
+      "id": 3,
+      "nama": "Pulsa Telkomsel 50k",
+      "harga": 52000,
+      "stok": 999,
+      "kategori": "ppob",
+      "img": "https://via.placeholder.com/200/2563eb?text=PULSA"
+    },
+    {
+      "id": 4,
+      "nama": "Berger",
+      "harga": 20000,
+      "modal": 10000,
+      "stok": 500,
+      "kategori": "makanan",
+      "img": "https://files.catbox.moe/0xndwc.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "Kopi kapal api ",
+      "harga": 5000,
+      "modal": 2000,
+      "stok": 1,
+      "kategori": "kopi",
+      "img": "https://via.placeholder.com/200/999?text=NEW"
+    },
+    {
+      "id": 6,
+      "nama": "White kopi",
+      "harga": 5000,
+      "modal": 2000,
+      "stok": 1,
+      "kategori": "kopi",
+      "img": "https://via.placeholder.com/200/999?text=NEW"
+    },
+    {
+      "id": 7,
+      "nama": "Kopi gula aren ",
+      "harga": 5000,
+      "modal": 2000,
+      "stok": 1,
+      "kategori": "kopi",
+      "img": "https://via.placeholder.com/200/999?text=NEW"
+    }
+  ],
+  "tokoData": {
+    "namaToko": "Toko sembako muhul ",
+    "fotoProfil": "https://files.catbox.moe/rcdwr7.jpg",
+    "bio": "Sistem Kasir",
+    "nomorWA": "6285129217113"
+  },
+  "transactions": []
+}
