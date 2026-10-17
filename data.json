@@ -30,6 +30,15 @@
       "stok": 30,
       "kategori": "kopi",
       "img": "https://via.placeholder.com/200/888"
+    },
+    {
+      "id": 3,
+      "nama": "elina",
+      "harga": 12000,
+      "modal": 18000,
+      "stok": 100,
+      "kategori": "kopi",
+      "img": "https://via.placeholder.com/200/999?text=NEW"
     }
   ],
   "transactions": []
